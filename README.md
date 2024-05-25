@@ -2,7 +2,7 @@
 
 Olá!
 
-Meu nome é Diogo Silva e estou disponível para trabalhos freelancer. Tenho experiência em PHP / Laravel / Wordpress, e estou pronto(a) para colaborar em novos projetos.
+Meu nome é Diogo Silva e estou disponível para trabalhos freelancer. Tenho experiência em PHP / Laravel / Wordpress / Elementor, e estou pronto(a) para colaborar em novos projetos.
 
 
 ## Link Curriculum
