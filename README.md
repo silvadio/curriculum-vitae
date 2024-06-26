@@ -7,4 +7,4 @@ Meu nome é Diogo Silva e estou disponível para trabalhos freelancer. Tenho exp
 
 ## Link Curriculum
 
-- Em Manutenção.
+- https://www.figma.com/design/zgwMER0KpRSUfrh0xKqpII/P%C3%BAblico---Curr%C3%ADculo?t=Rq9kNCUCBgPxjd9z-1
